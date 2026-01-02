@@ -1,0 +1,8 @@
+{
+  "name": "ApexCore RAG Agent",
+  "description": "A high-end 'Cyber Emerald' Retrieval-Augmented Generation (RAG) agent featuring bio-neural aesthetics, massive typography, and transparent logic tracing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
